@@ -1,0 +1,13 @@
+MI TIENDITA - INSTRUCCIONES RAPIDAS
+
+1. Abre la carpeta POO2 en tu computador.
+2. Abre el archivo MiTiendita.sln con Visual Studio 2022.
+3. Si Visual Studio pregunta por restaurar paquetes NuGet, acepta.
+4. En el Explorador de soluciones, clic derecho sobre MiTiendita y elige "Establecer como proyecto de inicio".
+5. Presiona F5 para ejecutar.
+6. Para probar: menú Prueba > Ejecutar todas las pruebas.
+
+La aplicación crea productos.json en la carpeta de salida cuando guardas.
+Se requiere Windows y la carga de trabajo "Desarrollo de escritorio de .NET" con SDK .NET 8.
+
+NOTA: el proyecto se preparó como una carpeta independiente dentro de POO2 para no alterar el proyecto POO.Fundamentos original. En este entorno no está instalado el SDK dotnet, por lo que debes ejecutar la compilación y las pruebas en tu Visual Studio.
